@@ -28,11 +28,8 @@ dataRef.on('value', function(snapshot) {
     
                         <td>${value2.nome}</td> +
     
-                        <td>${value2.telefone}</td> +
+                        <td>${value2.preco}</td> +
     
-                        <td>${value2.ira}</td> +
-
-                        <td>${value2.matricula}</td> +
     
                     </tr>`
     
