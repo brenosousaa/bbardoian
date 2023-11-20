@@ -1,4 +1,4 @@
-var dataRef = new Firebase('https://servidores2ano-default-rtdb.firebaseio.com');
+var dataRef = new Firebase('https://bar-do-ian-default-rtdb.firebaseio.com');
 
 dataRef.on('value', function(snapshot) {
 
